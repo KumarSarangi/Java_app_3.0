@@ -1,7 +1,7 @@
-# kubernetes-configmap-reload
+# kubernetes-configmap-reload .Test
 
 Pre-requisites:
----------------
+-------
     - Install Git
     - Install Maven
     - Install Docker
