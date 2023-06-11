@@ -1,4 +1,4 @@
-# kubernetes-configmap-reload. tESTing
+# kubernetes-configmap-reload
 
 Pre-requisites:
 -------
